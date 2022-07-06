@@ -1,0 +1,9 @@
+truncate table tb_login
+truncate table tb_manage_employee
+truncate table tb_requested_files
+truncate table tb_role
+truncate table tb_role_policy
+truncate table tb_sub_main_role
+truncate table  tb_subroles_of_subrole
+truncate table tb_temp_files
+truncate table tb_upload
